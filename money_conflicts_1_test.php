@@ -25,7 +25,7 @@
         <br><br>
 
             <form action="showit.php" method="post">
-                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="pay my basic living expenses">  
+                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="pay your basic living expenses">  
                      Pay my basic living expenses.</label>
                 <br>
 
@@ -33,8 +33,8 @@
                      Create an emergency savings account.</label>
                 <br>
 
-                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="fix my car or things around my home"> 
-                     Create an emergency savings account.</label>
+                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="fix your car or things around your home"> 
+                     Fix my car or things around my home.</label>
                 <br>
 
                 <label><input type="checkbox" name="notEnoughMoneyTo[]" value="buy health insurance"> 
@@ -45,7 +45,7 @@
                      Save for retirement.</label>
                 <br>
 
-                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="send my kids to college"> 
+                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="send your kids to college"> 
                      Send my kids to college.</label>
                 <br>
 
@@ -59,7 +59,7 @@
                 <br>
                 <input type="submit" class="btn btn-success">
             </form>
-           </div>
+        </div>
         </div>
         </div>
      </div>
