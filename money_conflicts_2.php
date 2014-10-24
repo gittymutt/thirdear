@@ -73,7 +73,7 @@
     <script>
     	$(document).ready( function () {     
 		$(".btn").click( function () {
-		var url = "money_conflicts_intro_3.html";    
+		var url = "money_conflicts_intro_3.php";    
 		$(location).attr('href',url);
 		
 		

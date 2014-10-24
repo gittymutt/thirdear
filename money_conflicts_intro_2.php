@@ -1,3 +1,10 @@
+<?php
+session_start();
+//print_r($_POST);  
+$_SESSION["notEnoughMoneyTo"]= $_POST["notEnoughMoneyTo"];
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -35,7 +42,7 @@
     <script>
     	$(document).ready( function () {     
 		$(".btn").click( function () {
-		var url = "money_conflicts_2.html";    
+		var url = "money_conflicts_2.php";    
 		$(location).attr('href',url);
 		
 		

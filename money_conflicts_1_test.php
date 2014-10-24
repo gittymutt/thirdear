@@ -24,7 +24,7 @@
         I don't have enough money to...
         <br><br>
 
-            <form action="showit.php" method="post">
+            <form action="money_conflicts_intro_2.php" method="post">
                 <label><input type="checkbox" name="notEnoughMoneyTo[]" value="pay your basic living expenses">  
                      Pay my basic living expenses.</label>
                 <br>
