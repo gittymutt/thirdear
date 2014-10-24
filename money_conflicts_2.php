@@ -22,45 +22,47 @@
 	  	<div class="panel panel-success">
 	  		<div class="panel-heading panel-success">Money Conflicts: Step 2 - Identify Your Interests.</div>
   				<div class="panel-body">
-    				<form class="form-horizontal" role="form">
-    			<div class="form-group">
+    			    			<div class="form-group">
                     <h3>Fill in the blanks with what comes to mind:</h3>
-    				<label for="inputEmail3" class="col-sm-2 control-label">I want</label>
+ 	<form action="money_conflicts_intro_3.php" method="post" class="form-horizontal" role="form">
+               
+    <label for="inputEmail3" class="col-sm-2 control-label">I want</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What do you want?)">
+      					<input type="textbox" class="form-control" name="want" placeholder="(What do you want?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I thought</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What did you think?)">
+      					<input type="textbox" class="form-control"  name="thought" nameplaceholder="(What did you think?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I believed</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What did you believe?)">
+      					<input type="textbox" class="form-control" name="believe" placeholder="(What did you believe?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I expected</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What did you expect?)">
+      					<input type="textbox" class="form-control"  name="expect" placeholder="(What did you expect?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I wish</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What do you wish?)">
+      					<input type="textbox" class="form-control" name="wish" placeholder="(What do you wish?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I have to</label>
     					<div class="col-sm-10">
-      					<input type="email" class="form-control" id="inputEmail3" placeholder="(What do you have to do?)">
+      					<input type="textbox" class="form-control"  name="haveto" plaeholder="(What do you have to do?)">
+
     					</div>
     				</label>
 
 
     			</div>
+                        <input type="submit" class="btn btn-success">
     				</form>
-    				<button type="button" class="btn btn-success">Continue</button>
-    			</div>
+    				    			</div>
  			</div>
 		</div>
 

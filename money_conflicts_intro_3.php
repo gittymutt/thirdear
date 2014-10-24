@@ -1,3 +1,15 @@
+<?php
+session_start();
+print_r($_POST);  
+
+//    $_SESSION["identifyInterests"]= $_POST["notEnoughMoneyTo"];
+
+
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
