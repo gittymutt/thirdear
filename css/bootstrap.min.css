@@ -1,4 +1,8 @@
 /* Hay !! I be Here &*&(    *sdsdsd   *((*&&(&*( ew)))))) */
+.nobullets > li {
+  list-style: none;
+  margin-bottom: 5px;
+}
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -2878,8 +2882,8 @@ fieldset[disabled] .btn-success.active {
 }
 .btn-info {
   color: #ffffff;
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #d3d3d3;
+  border-color: #c6c6c6;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -2887,8 +2891,8 @@ fieldset[disabled] .btn-success.active {
 .btn-info.active,
 .open > .dropdown-toggle.btn-info {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #bababa;
+  border-color: #a8a8a8;
 }
 .btn-info:active,
 .btn-info.active,
@@ -2910,11 +2914,11 @@ fieldset[disabled] .btn-info:active,
 .btn-info.disabled.active,
 .btn-info[disabled].active,
 fieldset[disabled] .btn-info.active {
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #d3d3d3;
+  border-color: #c6c6c6;
 }
 .btn-info .badge {
-  color: #5bc0de;
+  color: #d3d3d3;
   background-color: #ffffff;
 }
 .btn-warning {
@@ -4465,11 +4469,11 @@ a.label:focus {
   background-color: #720804;
 }
 .label-info {
-  background-color: #5bc0de;
+  background-color: #d3d3d3;
 }
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #31b0d5;
+  background-color: #bababa;
 }
 .label-warning {
   background-color: #f0ad4e;
@@ -4736,7 +4740,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-info {
-  background-color: #5bc0de;
+  background-color: #d3d3d3;
 }
 .progress-striped .progress-bar-info {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
