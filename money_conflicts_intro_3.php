@@ -2,7 +2,7 @@
 session_start();
 print_r($_POST);  
 
-//    $_SESSION["identifyInterests"]= $_POST["notEnoughMoneyTo"];
+$_SESSION["identifyInterests"]= $_POST;
 
 
 

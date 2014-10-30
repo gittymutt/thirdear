@@ -1,6 +1,10 @@
 .nobullets > li {
   list-style: none;
   margin-bottom: 5px;
+  padding-left: 0px;
+}
+.nobullets {
+  padding-left: 5px;
 }
 .btn-default,
 .btn-primary,

@@ -33,7 +33,7 @@
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I thought</label>
     					<div class="col-sm-10">
-      					<input type="textbox" class="form-control"  name="thought" nameplaceholder="(What did you think?)">
+      					<input type="textbox" class="form-control"  name="thought" placeholder="(What did you think?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I believed</label>
@@ -53,7 +53,7 @@
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I have to</label>
     					<div class="col-sm-10">
-      					<input type="textbox" class="form-control"  name="haveto" plaeholder="(What do you have to do?)">
+      					<input type="textbox" class="form-control"  name="haveto" placeholder="(What do you have to do?)">
 
     					</div>
     				</label>
