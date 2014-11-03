@@ -66,7 +66,7 @@ Type comments here.</textarea>
 <input type="hidden" name="form_format" value="html"/>
 <input type="hidden" name="theEmailBody" value="<?php
 
-echo "from me to you! $message_body";
+echo "$message_body";
 
 
 ?>">
