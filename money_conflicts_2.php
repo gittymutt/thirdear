@@ -38,7 +38,7 @@
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I believed</label>
     					<div class="col-sm-10">
-      					<input type="textbox" class="form-control" name="believe" placeholder="(What did you believe?)">
+      					<input type="textbox" class="form-control" name="believed" placeholder="(What did you believe?)">
     					</div>
     				</label>
     				<label for="inputEmail3" class="col-sm-2 control-label">I expected</label>
