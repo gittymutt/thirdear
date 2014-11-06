@@ -1,4 +1,33 @@
-﻿<!DOCTYPE html>
+<?php 
+session_start();
+$_SESSION['resolutionChoice'] = "to get a higher-paying job";
+$_SESSION['actionPlan'] = 
+<<<END
+\n\n-Give 100% effort in your current job, including if your current job is to find a job.
+                \n-Take an inventory of what you do best and what makes you happiest.
+                \n-Review your personal or household budget for unnecessary expenses you could cut.                
+                \n-Build up an emergency fund or savings account, so your job choices aren’t based solely on money desperation.
+                \n-Write a resume for the ideal candidate (you) in your dream job and determine where you might need to build some skills.
+                \n-Volunteer in a not-for-profit organization that will allow you to practice the skills you want to master.
+                \n-Accept an additional part-time job in a for-profit business that will allow you to practice the skills you want to master.
+ 
+\nNOTE: For-profit businesses are probably violating Wage and Labor Laws if they offer to “hire” you as a volunteer. DO NOT work for anyone who refuses to at least pay you minimum wage for your services, even if they have to train you.
+ 
+                \n-Talk to your loved ones about your plans to leave your current job.
+                \n-Ask your loved ones how it will affect them and what concerns they have about a change.
+                \n-Listen fully to your loved ones and design a plan to minimze the risks they fear most.
+                \n-Search for a career counselor/coach or attend a job search event within your budget.
+                \n-Ask your current employer for extra work in an area you want to develop.
+                \n-Make a list of no less than 10 things you love about your current job.
+                \n-Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
+
+
+
+
+
+END;
+?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">

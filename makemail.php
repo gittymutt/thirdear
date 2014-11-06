@@ -35,19 +35,23 @@ $message_body = $message_body .
 <<<END
 We all have interests in money, and our beliefs, expectations or values are somewhat unique to us. That's why others' plans to build wealth don't always work exactly the same for us.
  
-If you could have your conflicts with money resolve in one of the ways offered, you would choose [selection].
+If you could have your conflicts with money resolve in one of the ways offered, you would choose  
 END;
+
+$message_body = $message_body . $_SESSION['resolutionChoice'] . ".\n\n";
 
 $message_body = $message_body . 
 <<<END
 The list of solutions offered was not exhaustive, so work with your selection for now and adapt it as necessary. You can always come back to the app. Money issues can be especially stubborn because of all the value and significance we place on it, but do not give up. You are not destined to be poor. You are here to flourish and to share your good fortune.
  
-To get some fresh results in your relationship with money, we recommend that you: 
+To get some fresh results in your relationship with money, we recommend the following action plan: \n
 END;
+
+$message_body = $message_body . $_SESSION['actionPlan'];
 
 $message_body = $message_body . 
 <<<END
-Finally, stay on PARR: Plan, Act, Revise, and Repeat, until you get the results you want. If you need additional help, you can buy the first Third Ear Conflict Resolution book, People Don’t Listen: Tune Your Third Ear and Resolve Any Conflict, on our website at www.nschicklaw.com. You can also coach with Nance directly. For more information, send an email request to coaching@nschicklaw.com.
+\n\nFinally, stay on PARR: Plan, Act, Revise, and Repeat, until you get the results you want. If you need additional help, you can buy the first Third Ear Conflict Resolution book, People Don’t Listen: Tune Your Third Ear and Resolve Any Conflict, on our website at www.nschicklaw.com. You can also coach with Nance directly. For more information, send an email request to coaching@nschicklaw.com.
 END;
 
 

@@ -1,4 +1,20 @@
-﻿<!DOCTYPE html>
+<?php 
+session_start();
+$_SESSION['resolutionChoice'] = "that your partner would contribute more financially";
+$_SESSION['actionPlan'] = 
+<<<END
+-Read Spousenomics by Paula Szuchman and Jenny Anderson to get some insight on the many potential balances in relationships.
+-Review your personal or household budget for unnecessary expenses, impulse purchases, shortfalls, and real numbers to support or challenge your beliefs.
+-Make a list of no less than 10 things you love about your partner.
+-Make a list of all of the times you have had similar complaints about other partners, roommates, family members, friends, co-workers, etc.
+-Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
+-Schedule time to use the Conflicts with Others Wizard for additional insight.
+-If the issue comes up with your partner, DO NOT discuss it while you are emotionally-charged. Tell your partner that you aren’t sure you will make sense at the moment, and schedule a time to discuss your concerns.
+-Follow through on any promises you make, and get clear on what you want to experience or share (versus the result you want to produce).
+END;
+
+?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">

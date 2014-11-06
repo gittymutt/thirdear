@@ -1,4 +1,26 @@
-﻿<!DOCTYPE html>
+<?php 
+session_start();
+$_SESSION['resolutionChoice'] = "that your loved-ones would accept less-expensive gifts, meals, etc";
+$_SESSION['actionPlan'] = 
+<<<END
+-Each day, make a list of the ways you contributed to others during the day before.
+-Each day, make a list of the ways others contributed to you and note what you appreciated most.
+-List at least 10 things per day that you are thankful for.
+-Review your personal or household budget for those expenses or purchases that you think you made because you had to, or for someone else’s benefit more than yours.
+-Once you’ve identified the expenses at issue, list the benefits you got from each one.
+-If you can, return purchases that you made on impulse and now regret.
+-Make a list of 10 things you really like to spend your money on.
+-Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
+-Schedule time to use the Conflicts with Others Wizard for additional insight.
+-If the issue comes up with a loved one, DO NOT discuss it while you are emotionally-charged. Tell your loved one that you aren’t sure you will make sense at the moment, and schedule a time to discuss your concerns.
+-Follow through on any promises you make, and get clear on what you want to experience or share (versus the result you want to produce).
+
+
+END
+
+
+?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">

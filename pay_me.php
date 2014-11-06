@@ -1,4 +1,16 @@
-﻿<!DOCTYPE html>
+<?php 
+session_start();
+$_SESSION['resolutionChoice'] = "that someone who owes me money would pay me what I'm owed.";
+$_SESSION['actionPlan'] = 
+<<<END
+-Make a list of of all of the times you have had similar complaints about other partners, roommates, family members, friends, co-workers, etc.
+-Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
+-Schedule time to use the Conflicts with Others Wizard for additional insight.
+-If the issue comes up with your partner, DO NOT discuss it while you are emotionally-charged. Tell your partner that you aren’t sure you will make sense at the moment, and schedule a time to discuss your concerns.
+-Follow through on any promises you make, and get clear on what you want to experience or share (versus the result you want to produce).
+END;
+?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">

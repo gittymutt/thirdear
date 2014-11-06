@@ -1,4 +1,27 @@
-﻿<!DOCTYPE html>
+<?php 
+session_start();
+$_SESSION['resolutionChoice'] = "that you wouldn't have something you don't want";
+$_SESSION['actionPlan'] = 
+<<<END
+-Determine the exact amount that you “have to” pay to meet this obligation you wish you didn’t have.
+-Disclose the exact amount of this financial obligation with at least one person who you trust, who knows you well and who sees you more powerful than you see yourself.
+-Make a list of all of the times you have had similar complaints about other obligations.
+-Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
+-Brainstorm five to 10 ways you can generate income to pay toward this obligation.
+--Can you take a second or very part-time job?
+--Can you find freelance assignments or odd jobs, such as on TaskRabbit?
+--Can you have a yard, estate or other sale?
+--Can you ask friends or family for a gift or loan?
+--Can you take in a roommate? Or become one?
+-Brainstorm five to 10 ways you could eliminate this obligation.
+--Can you sell it or transfer ownership?
+--Can you lease it part-time, such as on airbnb?
+--Can you return it?
+--Can you ask for loan forgiveness, reduction or other help?
+-Add to your action plan some of the actions you brainstormed.
+END;
+?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
