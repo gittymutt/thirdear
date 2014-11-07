@@ -6,6 +6,7 @@ $_SESSION['actionPlan'] =
 -Determine the exact amount that you “have to” pay to meet this obligation you wish you didn’t have.
 -Disclose the exact amount of this financial obligation with at least one person who you trust, who knows you well and who sees you more powerful than you see yourself.
 -Make a list of all of the times you have had similar complaints about other obligations.
+-Make a list of 10 things that you love to do and would do for free.
 -Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
 -Brainstorm five to 10 ways you can generate income to pay toward this obligation.
 --Can you take a second or very part-time job?
@@ -49,6 +50,7 @@ END;
                 <li>      Determine the exact amount that you “have to” pay to meet this obligation you wish you didn’t have.</li>
                 <li>      Disclose the exact amount of this financial obligation with at least one person who you trust, who knows you well and who sees you more powerful than you see yourself.</li>
                 <li>Make a list of all of the times you have had similar complaints about other obligations.</li>
+                <li>Make a list of 10 things that you love to do and would do for free.</li>
                 <li>Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.</li>
                 <li>Brainstorm five to 10 ways you can generate income to pay toward this obligation.</li>
                 <ol type="a">

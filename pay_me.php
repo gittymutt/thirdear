@@ -4,6 +4,7 @@ $_SESSION['resolutionChoice'] = "that someone who owes me money would pay me wha
 $_SESSION['actionPlan'] = 
 <<<END
 -Make a list of of all of the times you have had similar complaints about other partners, roommates, family members, friends, co-workers, etc.
+-Make a list of 10 things that you love about the person who owes you money.
 -Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.
 -Schedule time to use the Conflicts with Others Wizard for additional insight.
 -If the issue comes up with your partner, DO NOT discuss it while you are emotionally-charged. Tell your partner that you aren’t sure you will make sense at the moment, and schedule a time to discuss your concerns.
@@ -36,6 +37,7 @@ END;
             Grrr. Don’t you hate when people owe you money and don’t pay you? If you had an agreement to pay (whether or not it was written), you might have legal rights to assert. In that case, I recommend that you contact an attorney such as <a href="http://www.nschicklaw.com/about/nance-schick/">Nance L. Schick</a> to see if you should take the person or entity to court, mediate the dispute or move on with your life. I also encourage you to set aside some time this week to use the Conflicts with Others Wizard. In the meantime, let’s look at what you can do to stop this situation from happening again.
             <ol>
                 <li>Make a list of of all of the times you have had similar complaints about other partners, roommates, family members, friends, co-workers, etc.</li>
+                <li>Make a list of 10 things that you love about the person who owes you money.</li>
                 <li>Discuss your “10 things” list with at least three people who you trust, who know you well and who see you more powerful than you see yourself.</li>
                 <li>Schedule time to use the Conflicts with Others Wizard for additional insight.</li>
                 <li>If the issue comes up with your partner, DO NOT discuss it while you are emotionally-charged. Tell your partner that you aren’t sure you will make sense at the moment, and schedule a time to discuss your concerns.</li>

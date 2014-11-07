@@ -8,7 +8,7 @@ $_SESSION['actionPlan'] =
 -Review your personal or household budget for unnecessary expenses you could cut.
 -Build up an emergency fund or savings account, so your job choices aren’t based solely on money desperation.
 -Write a resume for the ideal candidate (you) in your dream job and determine where you might need to build some skills.
--Volunteer in a not-for-profit organization that will allow you to practice the skills you want to master.<br>
+-Volunteer in a not-for-profit organization that will allow you to practice the skills you want to master.
 -Accept an additional part-time job in a for-profit business that will allow you to practice the skills you want to master.
 NOTE: For-profit businesses are probably violating Wage and Labor Laws if they offer to “hire” you as a volunteer. DO NOT work for anyone who refuses to at least pay you minimum wage for your services, even if they have to train you.
 -Talk to your loved ones about your plans to leave your current job.
