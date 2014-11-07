@@ -5,7 +5,7 @@ session_start();
 
 //$message_body = "<br>";
 
-$message_body = $message_body . "\nHello again!\n";
+//$message_body = $message_body . "\nHello again!\n";
 
 $message_body = $message_body . "\nYou said you don't have enough money to...\n";
 
@@ -118,7 +118,7 @@ Type comments here.</textarea>
 <input type="submit" name="submit" value="submit" class="btn btn-success"/>
 <input type="hidden" name="Results" value="<?php
 
-
+echo "Hello again!\n\n";
 echo "$message_body";
 
 
