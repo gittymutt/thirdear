@@ -42,7 +42,7 @@ END;
   <body>
     <div class="container">
   	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 4 - Create the Future.</div>
+	  		<div class="panel-heading panel-success">Step Four: Create the Future</div>
   		<div class="panel-body">
             It doesn’t always feel like it, but do you realize that you never technically have to do anything? This is not to say that your choice not to do something won’t cause a consequence you don’t like—or an unexpected one that you do and didn’t know was possible. It’s just very important for you to see that you are constantly making choices and most of them are very powerful. Some of them are like the ones you made as a child, but you make them differently now. You hated broccoli and Brussels sprouts before, but now you eat them because you’ve learned to cook them in new ways and you like the way your body feels when it’s properly nourished. You still choose ice cream for dinner sometimes. You just choose not to have the sugar crash, bloat and sluggishness that you can’t run off as easily as you did at five years old. You have too much you want to accomplish to at this stage of you life, so you opt for food that energizes you throughout the day. Hmmm. How is it that someone so powerful ended up with a financial obligation that weighs so heavily? Let’s take a look so you don’t repeat this cycle—and so that you can maybe eliminate this obligation.
             <ol>

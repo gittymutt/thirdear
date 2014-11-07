@@ -41,7 +41,7 @@ END
   <body>
     <div class="container">
   	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 4 - Create the Future.</div>
+	  		<div class="panel-heading panel-success">Step Four: Create the Future</div>
   		<div class="panel-body">
             I’m here with you on this one. I love that some of my friends and family members are doing well financially. I hope to be debt-free and more able to share my wealth in the near future, but I have difficulty standing my ground especially with certain people. Sometimes, I am embarrassed to admit that I still have crippling student loan debt and that I am not living the way lawyers do on TV. At other times, I feel like I have to buy approval by spending “like a real American consumer.” Intellectually, I know none of this matters to the people who truly enjoy our relationship and our time together, regardless of the amount of money I spend. Yet I’m still working my “no” muscle with a few people who seem to think I am only here to give to them. If you have people like this in your life, I encourage you to set aside some time this week to use the Conflicts with Others Wizard. In the meantime, let’s work on ourselves.
             <ol>

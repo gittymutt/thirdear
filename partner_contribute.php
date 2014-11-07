@@ -35,7 +35,7 @@ END;
   <body>
     <div class="container">
   	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 4 - Create the Future.</div>
+	  		<div class="panel-heading panel-success">Step Four: Create the Future</div>
   		<div class="panel-body">
 Ouch. It hurts when someone you identify as your partner doesn’t seem to be contributing as much as you feel you are. This part of your money conflict is no longer just about you. I encourage you to set aside some time this week to use the Conflicts with Others Wizard for that. In the meantime, let’s set you up with an action plan to get behind the imbalance you are feeling.
             <ol>

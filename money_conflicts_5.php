@@ -19,7 +19,7 @@
   <body>
     <div class="container">
   	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 5 - Stay On PARR.</div>
+	  		<div class="panel-heading panel-success">Step 5: Stay On PARR</div>
   		<div class="panel-body">
             As you can probably see, this will be an ongoing process that includes changing the way you think about money. There is no “quick fix.” Even if you get a fast, desired result in a few actions, you are likely to repeat the pattern if you don’t keep working to repattern your brain responses. This is one of the toughest patterns to change, and you are not alone. However, you’ll forget that others have these issues, too. So, consider forming a group to help you stay on PARR. Together, you can plan, act, revise, and repeat until you get the results you want--consistently. You’ll also start to have a lot of fun talking about money powerfully, rather than fearing that it will come up in conversation.
  

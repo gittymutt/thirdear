@@ -19,7 +19,7 @@
   <body>
      <div class="container">
   	    <div class="panel panel-success">
-        <div class="panel-heading panel-success">Money Conflicts: Step 1 - Define the Conflict.</div>
+        <div class="panel-heading panel-success">Step One: Define the Conflict.</div>
        	<div class="panel-body">
         I don't have enough money to...
         <br><br>
@@ -53,9 +53,6 @@
                      Take a vacation or have some fun.</label>
                 <br>
 
-                <label><input type="checkbox" name="notEnoughMoneyTo[]" value="(other)"> 
-                     (other)</label>
-                <br>
                 <br>
                 <input type="submit" class="btn btn-success">
             </form>

@@ -26,7 +26,7 @@ $_SESSION["identifyInterests"]= $_POST;
   <body>
     <div class="container">
   	<div class="panel panel-success">
-        <div class="panel-heading panel-success">Money Conflicts: Step 3 - Play With the Possibilities</div>
+        <div class="panel-heading panel-success">Fight or Flight?</div>
   		<div class="panel-body">
   We get very significant about our money, don’t we? The fear of not having enough money is one of the issues most likely to trigger our deepest, most uncontrollable emotions or reflexes. Some say it triggers the amygdala—the part of our brain that controls our survival instincts. It’s where we choose to fight or flee. I’ve tried both of these options with my finances, and neither of them work very well. So, let’s instead have some fun with all of that gray area between fights and flights, or in your brain’s gray matter.    <br><br> 
             <button type="button" class="btn btn-success">Continue</button>

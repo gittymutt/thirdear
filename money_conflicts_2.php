@@ -20,7 +20,7 @@
     <div class="container">
  
 	  	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 2 - Identify Your Interests.</div>
+	  		<div class="panel-heading panel-success">Step Two: Identify the Interests</div>
   				<div class="panel-body">
     			    			<div class="form-group">
                     <h3>Fill in the blanks with what comes to mind:</h3>

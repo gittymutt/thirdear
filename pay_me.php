@@ -31,7 +31,7 @@ END;
   <body>
     <div class="container">
   	<div class="panel panel-success">
-	  		<div class="panel-heading panel-success">Money Conflicts: Step 4 - Create the Future.</div>
+	  		<div class="panel-heading panel-success">Step Four: Create the Future</div>
   		<div class="panel-body">
             Grrr. Don’t you hate when people owe you money and don’t pay you? If you had an agreement to pay (whether or not it was written), you might have legal rights to assert. In that case, I recommend that you contact an attorney such as <a href="http://www.nschicklaw.com/about/nance-schick/">Nance L. Schick</a> to see if you should take the person or entity to court, mediate the dispute or move on with your life. I also encourage you to set aside some time this week to use the Conflicts with Others Wizard. In the meantime, let’s look at what you can do to stop this situation from happening again.
             <ol>
