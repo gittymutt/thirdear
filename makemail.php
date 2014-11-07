@@ -107,7 +107,7 @@ If you'd like us to email you your results, please enter your email below:
 <input type="hidden" name="subject" value="Your Action Plan from the Third Ear Conflict Resolution app" />
 <input type="hidden" name="redirect" value="/app/thankyou.html" />
 First Name:  <input type="text" name="FirstName"  style="margin-bottom: 5px;" /><br>
-Last Name  :<input type="text" name="LastName"  style="margin-bottom: 5px;" /><br>
+Last Name: <input type="text" name="LastName"  style="margin-bottom: 5px;" /><br>
 Email:  <input type="text" name="email" />
 <!-- Comments:  <textarea name="comments" cols="40" rows="10">
 Type comments here.</textarea>
