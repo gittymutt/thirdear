@@ -81,9 +81,11 @@ END;
   </head>
 
 <body>
-
-<h1>Thank you for using the Third Ear Conflict Resolution app!</h1>
-These are the results of our session:<br>
+ <div class="container">
+ 	<div class="panel panel-success">
+    <div class="panel-heading panel-success">Thank you for using the Third Ear Conflict Resolution app!</div>
+    <div class="panel-body">
+These are the results of your session:<br>
 <p>
 <?php
 
@@ -104,16 +106,16 @@ If you'd like us to email you your results, please enter your email below:
 <form action="../gdform.php" method="post">
 <input type="hidden" name="subject" value="Your Action Plan from the Third Ear Conflict Resolution app" />
 <input type="hidden" name="redirect" value="/app/thankyou.html" />
-First Name:  <input type="text" name="FirstName" /><br>
-Last Name  :<input type="text" name="LastName" /><br>
+First Name:  <input type="text" name="FirstName"  style="margin-bottom: 5px;" /><br>
+Last Name  :<input type="text" name="LastName"  style="margin-bottom: 5px;" /><br>
 Email:  <input type="text" name="email" />
 <!-- Comments:  <textarea name="comments" cols="40" rows="10">
 Type comments here.</textarea>
 -->
 <br>
-<input type="checkbox" name="sendmail" value="yes">Send me emails about the latest news about the Third Ear Program
+<input type="checkbox" name="sendmail" value="yes"  style="margin: 5px;" >Send me emails about the latest news about the Third Ear Program
 <br>
-<input type="submit" name="submit" value="submit"/>
+<input type="submit" name="submit" value="submit" class="btn btn-success"/>
 <input type="hidden" name="Results" value="<?php
 
 
@@ -122,7 +124,10 @@ echo "$message_body";
 
 ?>">
 </form></div></p>
-
+            </div>
+           </div>
+           </div>
+		</div>
 
 </body>
 </html>
