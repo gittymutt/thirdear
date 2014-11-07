@@ -24,11 +24,13 @@
             As you can probably see, this will be an ongoing process that includes changing the way you think about money. There is no “quick fix.” Even if you get a fast, desired result in a few actions, you are likely to repeat the pattern if you don’t keep working to repattern your brain responses. This is one of the toughest patterns to change, and you are not alone. However, you’ll forget that others have these issues, too. So, consider forming a group to help you stay on PARR. Together, you can plan, act, revise, and repeat until you get the results you want--consistently. You’ll also start to have a lot of fun talking about money powerfully, rather than fearing that it will come up in conversation.
  
             Good luck, and <a href="mailto:nance@nschicklaw.com">let me know</a> how I can support you further.
+<br><br>
+ <button type="button" class="btn btn-success">See your results</button>
+
+
         </div>
 
     </div>
- <button type="button" class="btn btn-success">Press here to see your results</button>
-
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
