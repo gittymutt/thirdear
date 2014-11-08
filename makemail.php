@@ -30,6 +30,9 @@ foreach ($_SESSION["identifyInterests"] as $want => $item)
 {
    if ($item != "") 
    {
+    $want = stripslashes($want);
+    $item = stripslashes($item);
+    if ($want == "haveto") {$want = "have to";} 
     $message_body = $message_body . "       -I $want  $item \n";
    }
 }
@@ -89,7 +92,7 @@ These are the results of your session:<br>
 <p>
 <?php
 
-$message_body = htmlentities($message_body);
+//$message_body = htmlentities($message_body);
 $html_message_body = $message_body;
 //$html_message_body = addslashes($html_message_body);
 
